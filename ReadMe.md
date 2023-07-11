@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Computers & Philosophy<br># Fullstack<br># WebDev<br># DevOps<br>
+# Computers & Philosophy<br># Fullstack<br># WebDev<br># DevOps<br># Always learning...<br>
 
 
 # 💻 Tech Stack:
